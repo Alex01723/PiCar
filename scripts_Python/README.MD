@@ -1,0 +1,1 @@
+# La gestion de la LED s'effectue avec les scripts led1.py pour l'allumer et led2.py pour l'éteindre

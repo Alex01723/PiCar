@@ -1,0 +1,7239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="GPSD 3.6 - http://catb.org/gpsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.topografix.com/GPX/1/1"
+        xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+        http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+  <time>2015-06-17T12:27:02.000Z</time>
+ </metadata>
+ <trk>
+  <src>GPSD 3.6</src>
+  <trkseg>
+   <trkpt lat="46.215492" lon="5.241375">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:02.220Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215492" lon="5.241380">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215492" lon="5.241373">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215483" lon="5.241375">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215480" lon="5.241377">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215472" lon="5.241383">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215470" lon="5.241385">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:08.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215463" lon="5.241392">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215467" lon="5.241388">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215468" lon="5.241385">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215465" lon="5.241395">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215467" lon="5.241397">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215467" lon="5.241395">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:14.220Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215465" lon="5.241400">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215465" lon="5.241402">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215462" lon="5.241400">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215460" lon="5.241398">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215458" lon="5.241398">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215460" lon="5.241395">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:20.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215460" lon="5.241393">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215460" lon="5.241393">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215463" lon="5.241392">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215462" lon="5.241392">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215458" lon="5.241393">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215457" lon="5.241397">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:26.206Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215455" lon="5.241397">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215455" lon="5.241398">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215455" lon="5.241398">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215455" lon="5.241400">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215457" lon="5.241400">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215457" lon="5.241402">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:32.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215455" lon="5.241398">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215453" lon="5.241398">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215452" lon="5.241397">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215452" lon="5.241395">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215450" lon="5.241393">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215450" lon="5.241393">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:38.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215448" lon="5.241390">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215448" lon="5.241388">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215448" lon="5.241388">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215450" lon="5.241388">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215468" lon="5.241378">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215483" lon="5.241368">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:44.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215512" lon="5.241363">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215537" lon="5.241362">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215562" lon="5.241362">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215583" lon="5.241358">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215612" lon="5.241348">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215628" lon="5.241340">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:50.238Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215687" lon="5.241330">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215727" lon="5.241335">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215758" lon="5.241338">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215795" lon="5.241358">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215852" lon="5.241395">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215877" lon="5.241407">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:27:56.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215930" lon="5.241423">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:27:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215960" lon="5.241492">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:27:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215980" lon="5.241528">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.216000" lon="5.241553">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215972" lon="5.241645">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215962" lon="5.241667">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:02.218Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215963" lon="5.241737">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215870" lon="5.241925">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215830" lon="5.242030">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215813" lon="5.242090">
+    <ele>101.700000</ele>
+    <time>2015-06-17T12:28:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215797" lon="5.242142">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:28:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215792" lon="5.242160">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:28:08.208Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215767" lon="5.242230">
+    <ele>101.600000</ele>
+    <time>2015-06-17T12:28:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215748" lon="5.242260">
+    <ele>101.500000</ele>
+    <time>2015-06-17T12:28:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215738" lon="5.242277">
+    <ele>101.400000</ele>
+    <time>2015-06-17T12:28:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215723" lon="5.242290">
+    <ele>101.300000</ele>
+    <time>2015-06-17T12:28:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215715" lon="5.242317">
+    <ele>101.100000</ele>
+    <time>2015-06-17T12:28:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215705" lon="5.242340">
+    <ele>101.100000</ele>
+    <time>2015-06-17T12:28:14.207Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215698" lon="5.242350">
+    <ele>100.900000</ele>
+    <time>2015-06-17T12:28:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215697" lon="5.242355">
+    <ele>100.800000</ele>
+    <time>2015-06-17T12:28:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215695" lon="5.242358">
+    <ele>100.800000</ele>
+    <time>2015-06-17T12:28:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215695" lon="5.242358">
+    <ele>100.800000</ele>
+    <time>2015-06-17T12:28:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215695" lon="5.242355">
+    <ele>100.700000</ele>
+    <time>2015-06-17T12:28:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215700" lon="5.242360">
+    <ele>100.700000</ele>
+    <time>2015-06-17T12:28:20.215Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215697" lon="5.242357">
+    <ele>100.500000</ele>
+    <time>2015-06-17T12:28:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215688" lon="5.242373">
+    <ele>100.400000</ele>
+    <time>2015-06-17T12:28:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215612" lon="5.242477">
+    <ele>100.200000</ele>
+    <time>2015-06-17T12:28:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215605" lon="5.242473">
+    <ele>100.100000</ele>
+    <time>2015-06-17T12:28:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215582" lon="5.242460">
+    <ele>99.900000</ele>
+    <time>2015-06-17T12:28:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.215492" lon="5.242573">
+    <ele>100.900000</ele>
+    <time>2015-06-17T12:28:26.214Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215427" lon="5.242515">
+    <ele>100.700000</ele>
+    <time>2015-06-17T12:28:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215377" lon="5.242460">
+    <ele>100.600000</ele>
+    <time>2015-06-17T12:28:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215312" lon="5.242397">
+    <ele>100.500000</ele>
+    <time>2015-06-17T12:28:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215240" lon="5.242318">
+    <ele>100.400000</ele>
+    <time>2015-06-17T12:28:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215155" lon="5.242222">
+    <ele>100.300000</ele>
+    <time>2015-06-17T12:28:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215077" lon="5.242108">
+    <ele>100.200000</ele>
+    <time>2015-06-17T12:28:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214993" lon="5.241990">
+    <ele>100.100000</ele>
+    <time>2015-06-17T12:28:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214918" lon="5.241853">
+    <ele>100.000000</ele>
+    <time>2015-06-17T12:28:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>26.3</hdop>
+    <vdop>72.2</vdop>
+    <pdop>76.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214835" lon="5.241732">
+    <ele>99.900000</ele>
+    <time>2015-06-17T12:28:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214780" lon="5.241548">
+    <ele>99.800000</ele>
+    <time>2015-06-17T12:28:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214698" lon="5.241435">
+    <ele>99.700000</ele>
+    <time>2015-06-17T12:28:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214613" lon="5.241328">
+    <ele>99.500000</ele>
+    <time>2015-06-17T12:28:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214537" lon="5.241213">
+    <ele>99.300000</ele>
+    <time>2015-06-17T12:28:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214450" lon="5.241105">
+    <ele>99.100000</ele>
+    <time>2015-06-17T12:28:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214365" lon="5.240995">
+    <ele>98.900000</ele>
+    <time>2015-06-17T12:28:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214280" lon="5.240882">
+    <ele>98.600000</ele>
+    <time>2015-06-17T12:28:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214192" lon="5.240775">
+    <ele>98.400000</ele>
+    <time>2015-06-17T12:28:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214108" lon="5.240668">
+    <ele>98.100000</ele>
+    <time>2015-06-17T12:28:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.214025" lon="5.240565">
+    <ele>97.900000</ele>
+    <time>2015-06-17T12:28:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213938" lon="5.240465">
+    <ele>97.600000</ele>
+    <time>2015-06-17T12:28:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213852" lon="5.240370">
+    <ele>97.300000</ele>
+    <time>2015-06-17T12:28:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213760" lon="5.240280">
+    <ele>96.900000</ele>
+    <time>2015-06-17T12:28:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213668" lon="5.240190">
+    <ele>96.600000</ele>
+    <time>2015-06-17T12:28:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213578" lon="5.240103">
+    <ele>96.300000</ele>
+    <time>2015-06-17T12:28:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213493" lon="5.240013">
+    <ele>95.900000</ele>
+    <time>2015-06-17T12:28:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213415" lon="5.239927">
+    <ele>95.600000</ele>
+    <time>2015-06-17T12:28:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213340" lon="5.239845">
+    <ele>95.200000</ele>
+    <time>2015-06-17T12:28:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>6.0</hdop>
+    <vdop>12.0</vdop>
+    <pdop>13.4</pdop>
+   </trkpt>
+   <trkpt lat="46.213275" lon="5.239760">
+    <ele>94.800000</ele>
+    <time>2015-06-17T12:28:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213225" lon="5.239683">
+    <ele>94.500000</ele>
+    <time>2015-06-17T12:28:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213173" lon="5.239613">
+    <ele>94.100000</ele>
+    <time>2015-06-17T12:28:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213137" lon="5.239552">
+    <ele>93.700000</ele>
+    <time>2015-06-17T12:28:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213097" lon="5.239488">
+    <ele>93.200000</ele>
+    <time>2015-06-17T12:28:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213080" lon="5.239402">
+    <ele>92.800000</ele>
+    <time>2015-06-17T12:29:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213055" lon="5.239348">
+    <ele>92.300000</ele>
+    <time>2015-06-17T12:29:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213042" lon="5.239297">
+    <ele>91.800000</ele>
+    <time>2015-06-17T12:29:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213030" lon="5.239253">
+    <ele>91.300000</ele>
+    <time>2015-06-17T12:29:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213030" lon="5.239203">
+    <ele>90.800000</ele>
+    <time>2015-06-17T12:29:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213025" lon="5.239165">
+    <ele>90.300000</ele>
+    <time>2015-06-17T12:29:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213008" lon="5.239125">
+    <ele>89.700000</ele>
+    <time>2015-06-17T12:29:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213002" lon="5.239055">
+    <ele>89.100000</ele>
+    <time>2015-06-17T12:29:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213008" lon="5.238990">
+    <ele>88.500000</ele>
+    <time>2015-06-17T12:29:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213027" lon="5.238912">
+    <ele>87.800000</ele>
+    <time>2015-06-17T12:29:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213058" lon="5.238825">
+    <ele>87.100000</ele>
+    <time>2015-06-17T12:29:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213095" lon="5.238742">
+    <ele>86.400000</ele>
+    <time>2015-06-17T12:29:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213130" lon="5.238665">
+    <ele>85.700000</ele>
+    <time>2015-06-17T12:29:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213067" lon="5.238743">
+    <ele>85.100000</ele>
+    <time>2015-06-17T12:29:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213072" lon="5.238722">
+    <ele>84.400000</ele>
+    <time>2015-06-17T12:29:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>5.9</hdop>
+    <vdop>11.8</vdop>
+    <pdop>13.2</pdop>
+   </trkpt>
+   <trkpt lat="46.213127" lon="5.238662">
+    <ele>83.700000</ele>
+    <time>2015-06-17T12:29:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213192" lon="5.238592">
+    <ele>83.000000</ele>
+    <time>2015-06-17T12:29:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213255" lon="5.238532">
+    <ele>82.300000</ele>
+    <time>2015-06-17T12:29:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213347" lon="5.238505">
+    <ele>81.600000</ele>
+    <time>2015-06-17T12:29:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213435" lon="5.238498">
+    <ele>80.900000</ele>
+    <time>2015-06-17T12:29:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213527" lon="5.238508">
+    <ele>80.300000</ele>
+    <time>2015-06-17T12:29:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213622" lon="5.238520">
+    <ele>79.700000</ele>
+    <time>2015-06-17T12:29:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213727" lon="5.238547">
+    <ele>79.100000</ele>
+    <time>2015-06-17T12:29:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213842" lon="5.238573">
+    <ele>78.500000</ele>
+    <time>2015-06-17T12:29:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.213967" lon="5.238597">
+    <ele>77.900000</ele>
+    <time>2015-06-17T12:29:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214088" lon="5.238618">
+    <ele>77.300000</ele>
+    <time>2015-06-17T12:29:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214202" lon="5.238637">
+    <ele>76.700000</ele>
+    <time>2015-06-17T12:29:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214308" lon="5.238658">
+    <ele>76.000000</ele>
+    <time>2015-06-17T12:29:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214412" lon="5.238678">
+    <ele>75.400000</ele>
+    <time>2015-06-17T12:29:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214527" lon="5.238702">
+    <ele>74.700000</ele>
+    <time>2015-06-17T12:29:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214623" lon="5.238740">
+    <ele>73.900000</ele>
+    <time>2015-06-17T12:29:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214727" lon="5.238792">
+    <ele>73.200000</ele>
+    <time>2015-06-17T12:29:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214830" lon="5.238838">
+    <ele>72.500000</ele>
+    <time>2015-06-17T12:29:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214947" lon="5.238888">
+    <ele>71.900000</ele>
+    <time>2015-06-17T12:29:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215072" lon="5.238920">
+    <ele>71.300000</ele>
+    <time>2015-06-17T12:29:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215213" lon="5.238960">
+    <ele>70.600000</ele>
+    <time>2015-06-17T12:29:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215388" lon="5.238957">
+    <ele>70.200000</ele>
+    <time>2015-06-17T12:29:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215543" lon="5.238968">
+    <ele>69.800000</ele>
+    <time>2015-06-17T12:29:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215680" lon="5.239000">
+    <ele>69.200000</ele>
+    <time>2015-06-17T12:29:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215818" lon="5.239032">
+    <ele>68.900000</ele>
+    <time>2015-06-17T12:29:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215962" lon="5.239053">
+    <ele>68.700000</ele>
+    <time>2015-06-17T12:29:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216102" lon="5.239070">
+    <ele>68.500000</ele>
+    <time>2015-06-17T12:29:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216230" lon="5.239087">
+    <ele>68.200000</ele>
+    <time>2015-06-17T12:29:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216353" lon="5.239102">
+    <ele>68.100000</ele>
+    <time>2015-06-17T12:29:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216477" lon="5.239108">
+    <ele>67.900000</ele>
+    <time>2015-06-17T12:29:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216587" lon="5.239122">
+    <ele>67.600000</ele>
+    <time>2015-06-17T12:29:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216685" lon="5.239140">
+    <ele>67.200000</ele>
+    <time>2015-06-17T12:29:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216775" lon="5.239163">
+    <ele>66.800000</ele>
+    <time>2015-06-17T12:29:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216848" lon="5.239183">
+    <ele>66.600000</ele>
+    <time>2015-06-17T12:29:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216918" lon="5.239188">
+    <ele>66.000000</ele>
+    <time>2015-06-17T12:29:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216953" lon="5.239193">
+    <ele>65.700000</ele>
+    <time>2015-06-17T12:29:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216972" lon="5.239188">
+    <ele>65.700000</ele>
+    <time>2015-06-17T12:29:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216982" lon="5.239192">
+    <ele>65.600000</ele>
+    <time>2015-06-17T12:29:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216953" lon="5.239198">
+    <ele>66.200000</ele>
+    <time>2015-06-17T12:29:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216918" lon="5.239220">
+    <ele>67.000000</ele>
+    <time>2015-06-17T12:29:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216925" lon="5.239237">
+    <ele>67.800000</ele>
+    <time>2015-06-17T12:29:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216935" lon="5.239268">
+    <ele>67.900000</ele>
+    <time>2015-06-17T12:29:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216947" lon="5.239262">
+    <ele>68.700000</ele>
+    <time>2015-06-17T12:29:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216993" lon="5.239248">
+    <ele>69.200000</ele>
+    <time>2015-06-17T12:29:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.217042" lon="5.239207">
+    <ele>69.600000</ele>
+    <time>2015-06-17T12:29:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.217058" lon="5.239183">
+    <ele>69.200000</ele>
+    <time>2015-06-17T12:30:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.217012" lon="5.239140">
+    <ele>69.800000</ele>
+    <time>2015-06-17T12:30:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.217005" lon="5.239047">
+    <ele>69.500000</ele>
+    <time>2015-06-17T12:30:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.5</vdop>
+    <pdop>6.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216948" lon="5.238948">
+    <ele>68.900000</ele>
+    <time>2015-06-17T12:30:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216932" lon="5.238852">
+    <ele>68.700000</ele>
+    <time>2015-06-17T12:30:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216927" lon="5.238735">
+    <ele>68.900000</ele>
+    <time>2015-06-17T12:30:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216930" lon="5.238612">
+    <ele>69.100000</ele>
+    <time>2015-06-17T12:30:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216935" lon="5.238477">
+    <ele>69.200000</ele>
+    <time>2015-06-17T12:30:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216945" lon="5.238313">
+    <ele>69.400000</ele>
+    <time>2015-06-17T12:30:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216962" lon="5.238112">
+    <ele>69.700000</ele>
+    <time>2015-06-17T12:30:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.216982" lon="5.237925">
+    <ele>69.900000</ele>
+    <time>2015-06-17T12:30:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217000" lon="5.237738">
+    <ele>70.100000</ele>
+    <time>2015-06-17T12:30:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217013" lon="5.237552">
+    <ele>70.200000</ele>
+    <time>2015-06-17T12:30:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217048" lon="5.237317">
+    <ele>69.700000</ele>
+    <time>2015-06-17T12:30:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217065" lon="5.237108">
+    <ele>69.700000</ele>
+    <time>2015-06-17T12:30:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217085" lon="5.236900">
+    <ele>69.500000</ele>
+    <time>2015-06-17T12:30:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217105" lon="5.236697">
+    <ele>69.400000</ele>
+    <time>2015-06-17T12:30:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217123" lon="5.236498">
+    <ele>69.600000</ele>
+    <time>2015-06-17T12:30:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217140" lon="5.236305">
+    <ele>69.800000</ele>
+    <time>2015-06-17T12:30:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217155" lon="5.236117">
+    <ele>70.100000</ele>
+    <time>2015-06-17T12:30:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217172" lon="5.235932">
+    <ele>70.300000</ele>
+    <time>2015-06-17T12:30:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217187" lon="5.235748">
+    <ele>70.500000</ele>
+    <time>2015-06-17T12:30:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217200" lon="5.235572">
+    <ele>70.800000</ele>
+    <time>2015-06-17T12:30:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217220" lon="5.235392">
+    <ele>71.200000</ele>
+    <time>2015-06-17T12:30:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217232" lon="5.235237">
+    <ele>71.600000</ele>
+    <time>2015-06-17T12:30:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.4</vdop>
+    <pdop>5.9</pdop>
+   </trkpt>
+   <trkpt lat="46.217253" lon="5.235083">
+    <ele>72.000000</ele>
+    <time>2015-06-17T12:30:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217273" lon="5.234943">
+    <ele>72.300000</ele>
+    <time>2015-06-17T12:30:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217288" lon="5.234827">
+    <ele>72.600000</ele>
+    <time>2015-06-17T12:30:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217293" lon="5.234730">
+    <ele>73.000000</ele>
+    <time>2015-06-17T12:30:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217295" lon="5.234655">
+    <ele>73.500000</ele>
+    <time>2015-06-17T12:30:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217312" lon="5.234580">
+    <ele>73.700000</ele>
+    <time>2015-06-17T12:30:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217330" lon="5.234508">
+    <ele>74.100000</ele>
+    <time>2015-06-17T12:30:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217367" lon="5.234537">
+    <ele>74.200000</ele>
+    <time>2015-06-17T12:30:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217397" lon="5.234542">
+    <ele>74.500000</ele>
+    <time>2015-06-17T12:30:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217430" lon="5.234537">
+    <ele>74.800000</ele>
+    <time>2015-06-17T12:30:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217498" lon="5.234608">
+    <ele>75.600000</ele>
+    <time>2015-06-17T12:30:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217552" lon="5.234643">
+    <ele>76.000000</ele>
+    <time>2015-06-17T12:30:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217610" lon="5.234673">
+    <ele>76.400000</ele>
+    <time>2015-06-17T12:30:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217678" lon="5.234703">
+    <ele>77.000000</ele>
+    <time>2015-06-17T12:30:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.3</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217750" lon="5.234730">
+    <ele>77.500000</ele>
+    <time>2015-06-17T12:30:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.3</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217827" lon="5.234760">
+    <ele>78.100000</ele>
+    <time>2015-06-17T12:30:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.3</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217910" lon="5.234788">
+    <ele>78.800000</ele>
+    <time>2015-06-17T12:30:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.3</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217990" lon="5.234825">
+    <ele>79.500000</ele>
+    <time>2015-06-17T12:30:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218072" lon="5.234855">
+    <ele>80.100000</ele>
+    <time>2015-06-17T12:30:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218162" lon="5.234897">
+    <ele>80.800000</ele>
+    <time>2015-06-17T12:30:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218250" lon="5.234952">
+    <ele>81.500000</ele>
+    <time>2015-06-17T12:30:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218340" lon="5.235012">
+    <ele>82.200000</ele>
+    <time>2015-06-17T12:30:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218430" lon="5.235073">
+    <ele>82.900000</ele>
+    <time>2015-06-17T12:30:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218513" lon="5.235133">
+    <ele>83.500000</ele>
+    <time>2015-06-17T12:30:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218588" lon="5.235195">
+    <ele>84.100000</ele>
+    <time>2015-06-17T12:30:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218663" lon="5.235253">
+    <ele>84.700000</ele>
+    <time>2015-06-17T12:30:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218732" lon="5.235310">
+    <ele>85.400000</ele>
+    <time>2015-06-17T12:30:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218778" lon="5.235370">
+    <ele>86.000000</ele>
+    <time>2015-06-17T12:30:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218828" lon="5.235432">
+    <ele>86.600000</ele>
+    <time>2015-06-17T12:30:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218883" lon="5.235487">
+    <ele>87.200000</ele>
+    <time>2015-06-17T12:30:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218925" lon="5.235542">
+    <ele>87.800000</ele>
+    <time>2015-06-17T12:30:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218963" lon="5.235600">
+    <ele>88.400000</ele>
+    <time>2015-06-17T12:30:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218992" lon="5.235662">
+    <ele>89.000000</ele>
+    <time>2015-06-17T12:30:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.219000" lon="5.235730">
+    <ele>89.700000</ele>
+    <time>2015-06-17T12:30:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218962" lon="5.235818">
+    <ele>90.200000</ele>
+    <time>2015-06-17T12:30:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218730" lon="5.236003">
+    <ele>90.700000</ele>
+    <time>2015-06-17T12:31:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218637" lon="5.236133">
+    <ele>91.300000</ele>
+    <time>2015-06-17T12:31:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218578" lon="5.236258">
+    <ele>92.000000</ele>
+    <time>2015-06-17T12:31:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218520" lon="5.236390">
+    <ele>92.600000</ele>
+    <time>2015-06-17T12:31:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218473" lon="5.236515">
+    <ele>93.300000</ele>
+    <time>2015-06-17T12:31:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218407" lon="5.236660">
+    <ele>94.000000</ele>
+    <time>2015-06-17T12:31:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218358" lon="5.236800">
+    <ele>94.700000</ele>
+    <time>2015-06-17T12:31:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218287" lon="5.236967">
+    <ele>95.200000</ele>
+    <time>2015-06-17T12:31:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218227" lon="5.237123">
+    <ele>95.900000</ele>
+    <time>2015-06-17T12:31:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218175" lon="5.237292">
+    <ele>96.600000</ele>
+    <time>2015-06-17T12:31:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218120" lon="5.237453">
+    <ele>97.300000</ele>
+    <time>2015-06-17T12:31:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218088" lon="5.237608">
+    <ele>98.200000</ele>
+    <time>2015-06-17T12:31:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218057" lon="5.237752">
+    <ele>98.900000</ele>
+    <time>2015-06-17T12:31:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.218025" lon="5.237907">
+    <ele>99.600000</ele>
+    <time>2015-06-17T12:31:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.217993" lon="5.238067">
+    <ele>100.400000</ele>
+    <time>2015-06-17T12:31:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217968" lon="5.238233">
+    <ele>101.300000</ele>
+    <time>2015-06-17T12:31:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217960" lon="5.238397">
+    <ele>102.300000</ele>
+    <time>2015-06-17T12:31:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217928" lon="5.238560">
+    <ele>103.200000</ele>
+    <time>2015-06-17T12:31:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217907" lon="5.238725">
+    <ele>104.000000</ele>
+    <time>2015-06-17T12:31:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217882" lon="5.238888">
+    <ele>104.800000</ele>
+    <time>2015-06-17T12:31:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217862" lon="5.239050">
+    <ele>105.700000</ele>
+    <time>2015-06-17T12:31:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217842" lon="5.239200">
+    <ele>106.500000</ele>
+    <time>2015-06-17T12:31:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217828" lon="5.239323">
+    <ele>107.400000</ele>
+    <time>2015-06-17T12:31:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217812" lon="5.239440">
+    <ele>108.300000</ele>
+    <time>2015-06-17T12:31:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217792" lon="5.239548">
+    <ele>109.200000</ele>
+    <time>2015-06-17T12:31:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217768" lon="5.239633">
+    <ele>110.100000</ele>
+    <time>2015-06-17T12:31:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217735" lon="5.239708">
+    <ele>110.900000</ele>
+    <time>2015-06-17T12:31:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217668" lon="5.239762">
+    <ele>111.600000</ele>
+    <time>2015-06-17T12:31:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217610" lon="5.239797">
+    <ele>112.400000</ele>
+    <time>2015-06-17T12:31:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217515" lon="5.239833">
+    <ele>113.100000</ele>
+    <time>2015-06-17T12:31:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217430" lon="5.239848">
+    <ele>114.000000</ele>
+    <time>2015-06-17T12:31:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217347" lon="5.239823">
+    <ele>114.800000</ele>
+    <time>2015-06-17T12:31:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217218" lon="5.239832">
+    <ele>116.000000</ele>
+    <time>2015-06-17T12:31:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217120" lon="5.239815">
+    <ele>116.900000</ele>
+    <time>2015-06-17T12:31:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.217025" lon="5.239798">
+    <ele>117.800000</ele>
+    <time>2015-06-17T12:31:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216933" lon="5.239775">
+    <ele>118.800000</ele>
+    <time>2015-06-17T12:31:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216852" lon="5.239738">
+    <ele>119.800000</ele>
+    <time>2015-06-17T12:31:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216793" lon="5.239695">
+    <ele>120.900000</ele>
+    <time>2015-06-17T12:31:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216737" lon="5.239665">
+    <ele>121.800000</ele>
+    <time>2015-06-17T12:31:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216683" lon="5.239642">
+    <ele>122.800000</ele>
+    <time>2015-06-17T12:31:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216652" lon="5.239605">
+    <ele>123.700000</ele>
+    <time>2015-06-17T12:31:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216615" lon="5.239555">
+    <ele>124.700000</ele>
+    <time>2015-06-17T12:31:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216562" lon="5.239517">
+    <ele>125.600000</ele>
+    <time>2015-06-17T12:31:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216505" lon="5.239483">
+    <ele>126.600000</ele>
+    <time>2015-06-17T12:31:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216447" lon="5.239480">
+    <ele>127.500000</ele>
+    <time>2015-06-17T12:31:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216352" lon="5.239502">
+    <ele>128.500000</ele>
+    <time>2015-06-17T12:31:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216240" lon="5.239518">
+    <ele>129.300000</ele>
+    <time>2015-06-17T12:31:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216133" lon="5.239523">
+    <ele>130.200000</ele>
+    <time>2015-06-17T12:31:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.216020" lon="5.239525">
+    <ele>130.900000</ele>
+    <time>2015-06-17T12:31:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215903" lon="5.239518">
+    <ele>131.700000</ele>
+    <time>2015-06-17T12:31:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215778" lon="5.239507">
+    <ele>132.400000</ele>
+    <time>2015-06-17T12:31:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215647" lon="5.239488">
+    <ele>133.200000</ele>
+    <time>2015-06-17T12:31:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215500" lon="5.239470">
+    <ele>133.900000</ele>
+    <time>2015-06-17T12:31:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215362" lon="5.239443">
+    <ele>134.500000</ele>
+    <time>2015-06-17T12:31:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215220" lon="5.239413">
+    <ele>135.100000</ele>
+    <time>2015-06-17T12:31:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.215080" lon="5.239378">
+    <ele>135.700000</ele>
+    <time>2015-06-17T12:31:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214933" lon="5.239360">
+    <ele>136.200000</ele>
+    <time>2015-06-17T12:31:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214787" lon="5.239343">
+    <ele>136.600000</ele>
+    <time>2015-06-17T12:31:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214643" lon="5.239327">
+    <ele>137.000000</ele>
+    <time>2015-06-17T12:31:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214503" lon="5.239305">
+    <ele>137.300000</ele>
+    <time>2015-06-17T12:31:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214368" lon="5.239288">
+    <ele>137.600000</ele>
+    <time>2015-06-17T12:32:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214233" lon="5.239275">
+    <ele>137.800000</ele>
+    <time>2015-06-17T12:32:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.214107" lon="5.239265">
+    <ele>138.000000</ele>
+    <time>2015-06-17T12:32:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213983" lon="5.239248">
+    <ele>138.200000</ele>
+    <time>2015-06-17T12:32:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213863" lon="5.239228">
+    <ele>138.300000</ele>
+    <time>2015-06-17T12:32:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213745" lon="5.239190">
+    <ele>138.500000</ele>
+    <time>2015-06-17T12:32:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213632" lon="5.239172">
+    <ele>138.600000</ele>
+    <time>2015-06-17T12:32:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213520" lon="5.239148">
+    <ele>138.700000</ele>
+    <time>2015-06-17T12:32:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213410" lon="5.239130">
+    <ele>138.800000</ele>
+    <time>2015-06-17T12:32:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213302" lon="5.239102">
+    <ele>138.800000</ele>
+    <time>2015-06-17T12:32:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213193" lon="5.239077">
+    <ele>138.700000</ele>
+    <time>2015-06-17T12:32:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.213092" lon="5.239035">
+    <ele>138.600000</ele>
+    <time>2015-06-17T12:32:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212995" lon="5.239022">
+    <ele>138.500000</ele>
+    <time>2015-06-17T12:32:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212937" lon="5.239007">
+    <ele>138.400000</ele>
+    <time>2015-06-17T12:32:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212872" lon="5.238995">
+    <ele>138.300000</ele>
+    <time>2015-06-17T12:32:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212830" lon="5.239030">
+    <ele>138.400000</ele>
+    <time>2015-06-17T12:32:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212797" lon="5.239113">
+    <ele>138.200000</ele>
+    <time>2015-06-17T12:32:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212743" lon="5.239203">
+    <ele>137.900000</ele>
+    <time>2015-06-17T12:32:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212707" lon="5.239298">
+    <ele>137.600000</ele>
+    <time>2015-06-17T12:32:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212663" lon="5.239402">
+    <ele>137.300000</ele>
+    <time>2015-06-17T12:32:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212618" lon="5.239505">
+    <ele>137.000000</ele>
+    <time>2015-06-17T12:32:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212572" lon="5.239612">
+    <ele>136.800000</ele>
+    <time>2015-06-17T12:32:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212523" lon="5.239710">
+    <ele>136.500000</ele>
+    <time>2015-06-17T12:32:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212478" lon="5.239795">
+    <ele>136.200000</ele>
+    <time>2015-06-17T12:32:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212432" lon="5.239877">
+    <ele>135.900000</ele>
+    <time>2015-06-17T12:32:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212388" lon="5.239953">
+    <ele>135.500000</ele>
+    <time>2015-06-17T12:32:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212345" lon="5.240020">
+    <ele>135.100000</ele>
+    <time>2015-06-17T12:32:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212302" lon="5.240072">
+    <ele>134.800000</ele>
+    <time>2015-06-17T12:32:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212298" lon="5.240095">
+    <ele>134.400000</ele>
+    <time>2015-06-17T12:32:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.8</pdop>
+   </trkpt>
+   <trkpt lat="46.212305" lon="5.240112">
+    <ele>133.900000</ele>
+    <time>2015-06-17T12:32:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212302" lon="5.240128">
+    <ele>133.400000</ele>
+    <time>2015-06-17T12:32:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212303" lon="5.240132">
+    <ele>132.800000</ele>
+    <time>2015-06-17T12:32:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212307" lon="5.240137">
+    <ele>132.200000</ele>
+    <time>2015-06-17T12:32:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212310" lon="5.240137">
+    <ele>131.600000</ele>
+    <time>2015-06-17T12:32:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212310" lon="5.240143">
+    <ele>131.000000</ele>
+    <time>2015-06-17T12:32:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212305" lon="5.240158">
+    <ele>130.400000</ele>
+    <time>2015-06-17T12:32:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212298" lon="5.240188">
+    <ele>129.900000</ele>
+    <time>2015-06-17T12:32:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212308" lon="5.240232">
+    <ele>129.400000</ele>
+    <time>2015-06-17T12:32:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212325" lon="5.240283">
+    <ele>128.800000</ele>
+    <time>2015-06-17T12:32:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212350" lon="5.240340">
+    <ele>128.300000</ele>
+    <time>2015-06-17T12:32:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212380" lon="5.240400">
+    <ele>127.700000</ele>
+    <time>2015-06-17T12:32:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212427" lon="5.240457">
+    <ele>127.200000</ele>
+    <time>2015-06-17T12:32:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212483" lon="5.240517">
+    <ele>126.600000</ele>
+    <time>2015-06-17T12:32:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212562" lon="5.240585">
+    <ele>126.100000</ele>
+    <time>2015-06-17T12:32:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212645" lon="5.240663">
+    <ele>125.600000</ele>
+    <time>2015-06-17T12:32:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212757" lon="5.240748">
+    <ele>125.100000</ele>
+    <time>2015-06-17T12:32:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.212893" lon="5.240827">
+    <ele>124.700000</ele>
+    <time>2015-06-17T12:32:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.213017" lon="5.240923">
+    <ele>124.200000</ele>
+    <time>2015-06-17T12:32:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.213155" lon="5.241030">
+    <ele>123.700000</ele>
+    <time>2015-06-17T12:32:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.213322" lon="5.241147">
+    <ele>123.300000</ele>
+    <time>2015-06-17T12:32:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.2</vdop>
+    <pdop>5.7</pdop>
+   </trkpt>
+   <trkpt lat="46.213437" lon="5.241277">
+    <ele>122.800000</ele>
+    <time>2015-06-17T12:32:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.213553" lon="5.241398">
+    <ele>122.200000</ele>
+    <time>2015-06-17T12:32:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.213663" lon="5.241522">
+    <ele>121.600000</ele>
+    <time>2015-06-17T12:32:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.213768" lon="5.241647">
+    <ele>121.100000</ele>
+    <time>2015-06-17T12:32:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.213877" lon="5.241763">
+    <ele>120.600000</ele>
+    <time>2015-06-17T12:32:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.213988" lon="5.241882">
+    <ele>120.000000</ele>
+    <time>2015-06-17T12:32:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214095" lon="5.241997">
+    <ele>119.400000</ele>
+    <time>2015-06-17T12:32:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214205" lon="5.242105">
+    <ele>118.900000</ele>
+    <time>2015-06-17T12:32:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214318" lon="5.242208">
+    <ele>118.300000</ele>
+    <time>2015-06-17T12:32:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214428" lon="5.242307">
+    <ele>117.700000</ele>
+    <time>2015-06-17T12:32:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214535" lon="5.242410">
+    <ele>117.100000</ele>
+    <time>2015-06-17T12:33:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214643" lon="5.242523">
+    <ele>116.500000</ele>
+    <time>2015-06-17T12:33:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214757" lon="5.242642">
+    <ele>115.900000</ele>
+    <time>2015-06-17T12:33:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214877" lon="5.242757">
+    <ele>115.400000</ele>
+    <time>2015-06-17T12:33:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.214997" lon="5.242877">
+    <ele>115.000000</ele>
+    <time>2015-06-17T12:33:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215118" lon="5.242983">
+    <ele>114.500000</ele>
+    <time>2015-06-17T12:33:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215240" lon="5.243092">
+    <ele>114.100000</ele>
+    <time>2015-06-17T12:33:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215352" lon="5.243205">
+    <ele>113.600000</ele>
+    <time>2015-06-17T12:33:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215458" lon="5.243320">
+    <ele>113.000000</ele>
+    <time>2015-06-17T12:33:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215565" lon="5.243432">
+    <ele>112.600000</ele>
+    <time>2015-06-17T12:33:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215677" lon="5.243525">
+    <ele>112.200000</ele>
+    <time>2015-06-17T12:33:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215773" lon="5.243632">
+    <ele>111.800000</ele>
+    <time>2015-06-17T12:33:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215863" lon="5.243737">
+    <ele>111.500000</ele>
+    <time>2015-06-17T12:33:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215938" lon="5.243840">
+    <ele>111.100000</ele>
+    <time>2015-06-17T12:33:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.215995" lon="5.243925">
+    <ele>110.700000</ele>
+    <time>2015-06-17T12:33:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216053" lon="5.244000">
+    <ele>110.300000</ele>
+    <time>2015-06-17T12:33:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216103" lon="5.244075">
+    <ele>109.900000</ele>
+    <time>2015-06-17T12:33:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216148" lon="5.244143">
+    <ele>109.400000</ele>
+    <time>2015-06-17T12:33:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216132" lon="5.244230">
+    <ele>108.900000</ele>
+    <time>2015-06-17T12:33:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216147" lon="5.244320">
+    <ele>108.500000</ele>
+    <time>2015-06-17T12:33:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216157" lon="5.244447">
+    <ele>108.100000</ele>
+    <time>2015-06-17T12:33:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216180" lon="5.244577">
+    <ele>107.800000</ele>
+    <time>2015-06-17T12:33:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216230" lon="5.244688">
+    <ele>107.500000</ele>
+    <time>2015-06-17T12:33:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216298" lon="5.244770">
+    <ele>107.500000</ele>
+    <time>2015-06-17T12:33:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>5.0</vdop>
+    <pdop>5.6</pdop>
+   </trkpt>
+   <trkpt lat="46.216417" lon="5.244748">
+    <ele>107.500000</ele>
+    <time>2015-06-17T12:33:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.216522" lon="5.244723">
+    <ele>107.600000</ele>
+    <time>2015-06-17T12:33:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.216602" lon="5.244705">
+    <ele>107.300000</ele>
+    <time>2015-06-17T12:33:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.216683" lon="5.244683">
+    <ele>107.100000</ele>
+    <time>2015-06-17T12:33:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.216767" lon="5.244665">
+    <ele>106.800000</ele>
+    <time>2015-06-17T12:33:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.216852" lon="5.244662">
+    <ele>106.500000</ele>
+    <time>2015-06-17T12:33:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.216973" lon="5.244673">
+    <ele>106.200000</ele>
+    <time>2015-06-17T12:33:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217097" lon="5.244702">
+    <ele>105.800000</ele>
+    <time>2015-06-17T12:33:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217200" lon="5.244895">
+    <ele>106.100000</ele>
+    <time>2015-06-17T12:33:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217308" lon="5.245020">
+    <ele>105.900000</ele>
+    <time>2015-06-17T12:33:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217423" lon="5.245150">
+    <ele>105.800000</ele>
+    <time>2015-06-17T12:33:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217550" lon="5.245275">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:33:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217682" lon="5.245408">
+    <ele>105.500000</ele>
+    <time>2015-06-17T12:33:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217827" lon="5.245560">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:33:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.217988" lon="5.245705">
+    <ele>105.700000</ele>
+    <time>2015-06-17T12:33:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.218142" lon="5.245847">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:33:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.218287" lon="5.246003">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:33:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.218437" lon="5.246153">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:33:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.218585" lon="5.246297">
+    <ele>105.500000</ele>
+    <time>2015-06-17T12:33:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.218732" lon="5.246440">
+    <ele>105.400000</ele>
+    <time>2015-06-17T12:33:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.218873" lon="5.246580">
+    <ele>105.300000</ele>
+    <time>2015-06-17T12:33:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219015" lon="5.246710">
+    <ele>105.200000</ele>
+    <time>2015-06-17T12:33:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219148" lon="5.246837">
+    <ele>105.200000</ele>
+    <time>2015-06-17T12:33:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219283" lon="5.246965">
+    <ele>105.100000</ele>
+    <time>2015-06-17T12:33:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219418" lon="5.247090">
+    <ele>105.100000</ele>
+    <time>2015-06-17T12:33:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219548" lon="5.247213">
+    <ele>105.000000</ele>
+    <time>2015-06-17T12:33:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219675" lon="5.247337">
+    <ele>104.900000</ele>
+    <time>2015-06-17T12:33:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219798" lon="5.247458">
+    <ele>104.800000</ele>
+    <time>2015-06-17T12:33:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.219918" lon="5.247578">
+    <ele>104.700000</ele>
+    <time>2015-06-17T12:33:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220045" lon="5.247688">
+    <ele>104.700000</ele>
+    <time>2015-06-17T12:33:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220160" lon="5.247797">
+    <ele>104.600000</ele>
+    <time>2015-06-17T12:33:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220282" lon="5.247908">
+    <ele>104.600000</ele>
+    <time>2015-06-17T12:33:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220398" lon="5.248017">
+    <ele>104.500000</ele>
+    <time>2015-06-17T12:33:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220518" lon="5.248115">
+    <ele>104.500000</ele>
+    <time>2015-06-17T12:33:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220632" lon="5.248210">
+    <ele>104.400000</ele>
+    <time>2015-06-17T12:33:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220718" lon="5.248322">
+    <ele>104.300000</ele>
+    <time>2015-06-17T12:33:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.220802" lon="5.248428">
+    <ele>104.300000</ele>
+    <time>2015-06-17T12:34:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.220877" lon="5.248523">
+    <ele>104.200000</ele>
+    <time>2015-06-17T12:34:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.220937" lon="5.248602">
+    <ele>104.200000</ele>
+    <time>2015-06-17T12:34:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.221010" lon="5.248668">
+    <ele>104.300000</ele>
+    <time>2015-06-17T12:34:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>3</sat>
+   </trkpt>
+   <trkpt lat="46.221058" lon="5.248740">
+    <ele>104.200000</ele>
+    <time>2015-06-17T12:34:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221097" lon="5.248818">
+    <ele>104.200000</ele>
+    <time>2015-06-17T12:34:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221118" lon="5.248898">
+    <ele>104.100000</ele>
+    <time>2015-06-17T12:34:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221158" lon="5.248967">
+    <ele>104.000000</ele>
+    <time>2015-06-17T12:34:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221212" lon="5.249040">
+    <ele>104.000000</ele>
+    <time>2015-06-17T12:34:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221265" lon="5.249115">
+    <ele>103.900000</ele>
+    <time>2015-06-17T12:34:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221315" lon="5.249177">
+    <ele>103.900000</ele>
+    <time>2015-06-17T12:34:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221378" lon="5.249223">
+    <ele>104.000000</ele>
+    <time>2015-06-17T12:34:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221452" lon="5.249245">
+    <ele>104.100000</ele>
+    <time>2015-06-17T12:34:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.5</pdop>
+   </trkpt>
+   <trkpt lat="46.221507" lon="5.249253">
+    <ele>104.200000</ele>
+    <time>2015-06-17T12:34:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221577" lon="5.249237">
+    <ele>104.300000</ele>
+    <time>2015-06-17T12:34:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221577" lon="5.249187">
+    <ele>104.400000</ele>
+    <time>2015-06-17T12:34:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221618" lon="5.249030">
+    <ele>104.500000</ele>
+    <time>2015-06-17T12:34:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221665" lon="5.248830">
+    <ele>104.800000</ele>
+    <time>2015-06-17T12:34:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221697" lon="5.248588">
+    <ele>105.000000</ele>
+    <time>2015-06-17T12:34:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221692" lon="5.248343">
+    <ele>105.200000</ele>
+    <time>2015-06-17T12:34:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221697" lon="5.248055">
+    <ele>105.300000</ele>
+    <time>2015-06-17T12:34:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221722" lon="5.247812">
+    <ele>105.400000</ele>
+    <time>2015-06-17T12:34:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221770" lon="5.247580">
+    <ele>105.400000</ele>
+    <time>2015-06-17T12:34:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221827" lon="5.247325">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:34:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221878" lon="5.247075">
+    <ele>105.600000</ele>
+    <time>2015-06-17T12:34:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221953" lon="5.246803">
+    <ele>105.700000</ele>
+    <time>2015-06-17T12:34:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222035" lon="5.246513">
+    <ele>105.800000</ele>
+    <time>2015-06-17T12:34:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222095" lon="5.246240">
+    <ele>106.000000</ele>
+    <time>2015-06-17T12:34:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222140" lon="5.245967">
+    <ele>106.200000</ele>
+    <time>2015-06-17T12:34:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222163" lon="5.245688">
+    <ele>106.400000</ele>
+    <time>2015-06-17T12:34:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222165" lon="5.245415">
+    <ele>106.500000</ele>
+    <time>2015-06-17T12:34:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222180" lon="5.245147">
+    <ele>106.600000</ele>
+    <time>2015-06-17T12:34:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222187" lon="5.244898">
+    <ele>106.800000</ele>
+    <time>2015-06-17T12:34:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222203" lon="5.244680">
+    <ele>106.900000</ele>
+    <time>2015-06-17T12:34:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222218" lon="5.244488">
+    <ele>107.100000</ele>
+    <time>2015-06-17T12:34:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222233" lon="5.244312">
+    <ele>107.400000</ele>
+    <time>2015-06-17T12:34:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222245" lon="5.244165">
+    <ele>107.700000</ele>
+    <time>2015-06-17T12:34:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222247" lon="5.244070">
+    <ele>108.100000</ele>
+    <time>2015-06-17T12:34:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222265" lon="5.243965">
+    <ele>108.600000</ele>
+    <time>2015-06-17T12:34:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222312" lon="5.243848">
+    <ele>109.800000</ele>
+    <time>2015-06-17T12:34:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222343" lon="5.243765">
+    <ele>110.700000</ele>
+    <time>2015-06-17T12:34:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222392" lon="5.243670">
+    <ele>111.700000</ele>
+    <time>2015-06-17T12:34:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222425" lon="5.243583">
+    <ele>112.500000</ele>
+    <time>2015-06-17T12:34:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222442" lon="5.243498">
+    <ele>113.600000</ele>
+    <time>2015-06-17T12:34:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222448" lon="5.243402">
+    <ele>114.100000</ele>
+    <time>2015-06-17T12:34:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222437" lon="5.243297">
+    <ele>114.600000</ele>
+    <time>2015-06-17T12:34:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222392" lon="5.243192">
+    <ele>115.000000</ele>
+    <time>2015-06-17T12:34:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222355" lon="5.243090">
+    <ele>115.500000</ele>
+    <time>2015-06-17T12:34:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222325" lon="5.243000">
+    <ele>115.900000</ele>
+    <time>2015-06-17T12:34:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222298" lon="5.242917">
+    <ele>116.300000</ele>
+    <time>2015-06-17T12:34:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222275" lon="5.242848">
+    <ele>116.800000</ele>
+    <time>2015-06-17T12:34:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222240" lon="5.242818">
+    <ele>117.000000</ele>
+    <time>2015-06-17T12:34:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.9</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222208" lon="5.242785">
+    <ele>117.400000</ele>
+    <time>2015-06-17T12:34:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222175" lon="5.242768">
+    <ele>117.800000</ele>
+    <time>2015-06-17T12:34:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222133" lon="5.242820">
+    <ele>118.200000</ele>
+    <time>2015-06-17T12:34:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222095" lon="5.242887">
+    <ele>118.600000</ele>
+    <time>2015-06-17T12:34:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222052" lon="5.243018">
+    <ele>119.200000</ele>
+    <time>2015-06-17T12:34:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222038" lon="5.243138">
+    <ele>119.700000</ele>
+    <time>2015-06-17T12:34:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222050" lon="5.243260">
+    <ele>120.300000</ele>
+    <time>2015-06-17T12:34:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222052" lon="5.243498">
+    <ele>120.700000</ele>
+    <time>2015-06-17T12:34:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222057" lon="5.243673">
+    <ele>121.400000</ele>
+    <time>2015-06-17T12:35:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222062" lon="5.243815">
+    <ele>121.800000</ele>
+    <time>2015-06-17T12:35:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222070" lon="5.243960">
+    <ele>122.300000</ele>
+    <time>2015-06-17T12:35:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222087" lon="5.244092">
+    <ele>122.900000</ele>
+    <time>2015-06-17T12:35:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222108" lon="5.244238">
+    <ele>123.700000</ele>
+    <time>2015-06-17T12:35:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222115" lon="5.244400">
+    <ele>124.500000</ele>
+    <time>2015-06-17T12:35:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222113" lon="5.244560">
+    <ele>125.300000</ele>
+    <time>2015-06-17T12:35:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222105" lon="5.244733">
+    <ele>126.100000</ele>
+    <time>2015-06-17T12:35:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222092" lon="5.244912">
+    <ele>126.800000</ele>
+    <time>2015-06-17T12:35:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222098" lon="5.245070">
+    <ele>127.700000</ele>
+    <time>2015-06-17T12:35:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222098" lon="5.245243">
+    <ele>128.600000</ele>
+    <time>2015-06-17T12:35:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222083" lon="5.245430">
+    <ele>129.500000</ele>
+    <time>2015-06-17T12:35:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.4</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222067" lon="5.245610">
+    <ele>130.200000</ele>
+    <time>2015-06-17T12:35:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222048" lon="5.245783">
+    <ele>130.900000</ele>
+    <time>2015-06-17T12:35:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.222018" lon="5.245965">
+    <ele>131.700000</ele>
+    <time>2015-06-17T12:35:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221992" lon="5.246127">
+    <ele>132.400000</ele>
+    <time>2015-06-17T12:35:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221967" lon="5.246277">
+    <ele>133.600000</ele>
+    <time>2015-06-17T12:35:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221923" lon="5.246443">
+    <ele>134.800000</ele>
+    <time>2015-06-17T12:35:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221877" lon="5.246612">
+    <ele>136.200000</ele>
+    <time>2015-06-17T12:35:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221832" lon="5.246772">
+    <ele>137.400000</ele>
+    <time>2015-06-17T12:35:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221790" lon="5.246923">
+    <ele>138.200000</ele>
+    <time>2015-06-17T12:35:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221750" lon="5.247075">
+    <ele>138.800000</ele>
+    <time>2015-06-17T12:35:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221705" lon="5.247222">
+    <ele>139.000000</ele>
+    <time>2015-06-17T12:35:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221662" lon="5.247362">
+    <ele>139.000000</ele>
+    <time>2015-06-17T12:35:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221620" lon="5.247495">
+    <ele>139.000000</ele>
+    <time>2015-06-17T12:35:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221582" lon="5.247625">
+    <ele>139.000000</ele>
+    <time>2015-06-17T12:35:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221545" lon="5.247747">
+    <ele>139.000000</ele>
+    <time>2015-06-17T12:35:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221510" lon="5.247860">
+    <ele>138.700000</ele>
+    <time>2015-06-17T12:35:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221477" lon="5.247965">
+    <ele>138.200000</ele>
+    <time>2015-06-17T12:35:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221442" lon="5.248065">
+    <ele>137.700000</ele>
+    <time>2015-06-17T12:35:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221413" lon="5.248152">
+    <ele>137.300000</ele>
+    <time>2015-06-17T12:35:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221398" lon="5.248200">
+    <ele>136.900000</ele>
+    <time>2015-06-17T12:35:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221393" lon="5.248220">
+    <ele>138.800000</ele>
+    <time>2015-06-17T12:35:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.5</hdop>
+    <vdop>4.8</vdop>
+    <pdop>5.4</pdop>
+   </trkpt>
+   <trkpt lat="46.221395" lon="5.248218">
+    <ele>138.500000</ele>
+    <time>2015-06-17T12:35:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221395" lon="5.248217">
+    <ele>138.400000</ele>
+    <time>2015-06-17T12:35:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221395" lon="5.248215">
+    <ele>138.100000</ele>
+    <time>2015-06-17T12:35:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221392" lon="5.248218">
+    <ele>138.000000</ele>
+    <time>2015-06-17T12:35:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221392" lon="5.248225">
+    <ele>138.500000</ele>
+    <time>2015-06-17T12:35:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221390" lon="5.248230">
+    <ele>137.700000</ele>
+    <time>2015-06-17T12:35:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221388" lon="5.248242">
+    <ele>137.000000</ele>
+    <time>2015-06-17T12:35:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221385" lon="5.248265">
+    <ele>136.800000</ele>
+    <time>2015-06-17T12:35:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221380" lon="5.248287">
+    <ele>136.500000</ele>
+    <time>2015-06-17T12:35:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221365" lon="5.248320">
+    <ele>136.000000</ele>
+    <time>2015-06-17T12:35:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221310" lon="5.248393">
+    <ele>136.300000</ele>
+    <time>2015-06-17T12:35:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221245" lon="5.248467">
+    <ele>136.400000</ele>
+    <time>2015-06-17T12:35:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221180" lon="5.248520">
+    <ele>136.300000</ele>
+    <time>2015-06-17T12:35:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221118" lon="5.248565">
+    <ele>136.100000</ele>
+    <time>2015-06-17T12:35:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221083" lon="5.248613">
+    <ele>135.600000</ele>
+    <time>2015-06-17T12:35:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221055" lon="5.248668">
+    <ele>134.800000</ele>
+    <time>2015-06-17T12:35:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221030" lon="5.248740">
+    <ele>134.200000</ele>
+    <time>2015-06-17T12:35:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221017" lon="5.248823">
+    <ele>133.300000</ele>
+    <time>2015-06-17T12:35:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.221000" lon="5.248927">
+    <ele>132.300000</ele>
+    <time>2015-06-17T12:35:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220975" lon="5.249028">
+    <ele>131.500000</ele>
+    <time>2015-06-17T12:35:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220938" lon="5.249130">
+    <ele>130.400000</ele>
+    <time>2015-06-17T12:35:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220908" lon="5.249225">
+    <ele>131.900000</ele>
+    <time>2015-06-17T12:35:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220880" lon="5.249313">
+    <ele>130.900000</ele>
+    <time>2015-06-17T12:35:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220847" lon="5.249402">
+    <ele>130.000000</ele>
+    <time>2015-06-17T12:35:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220798" lon="5.249483">
+    <ele>129.200000</ele>
+    <time>2015-06-17T12:35:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220707" lon="5.249580">
+    <ele>128.200000</ele>
+    <time>2015-06-17T12:35:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220618" lon="5.249662">
+    <ele>126.700000</ele>
+    <time>2015-06-17T12:35:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220533" lon="5.249737">
+    <ele>125.300000</ele>
+    <time>2015-06-17T12:36:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220423" lon="5.249815">
+    <ele>128.100000</ele>
+    <time>2015-06-17T12:36:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220330" lon="5.249875">
+    <ele>127.200000</ele>
+    <time>2015-06-17T12:36:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220237" lon="5.249923">
+    <ele>126.300000</ele>
+    <time>2015-06-17T12:36:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220148" lon="5.249975">
+    <ele>125.800000</ele>
+    <time>2015-06-17T12:36:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220040" lon="5.250035">
+    <ele>127.300000</ele>
+    <time>2015-06-17T12:36:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.220025" lon="5.250067">
+    <ele>127.400000</ele>
+    <time>2015-06-17T12:36:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219968" lon="5.250095">
+    <ele>126.400000</ele>
+    <time>2015-06-17T12:36:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219912" lon="5.250128">
+    <ele>127.500000</ele>
+    <time>2015-06-17T12:36:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219862" lon="5.250138">
+    <ele>127.000000</ele>
+    <time>2015-06-17T12:36:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219815" lon="5.250132">
+    <ele>126.500000</ele>
+    <time>2015-06-17T12:36:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219765" lon="5.250125">
+    <ele>126.200000</ele>
+    <time>2015-06-17T12:36:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219720" lon="5.250117">
+    <ele>126.000000</ele>
+    <time>2015-06-17T12:36:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219680" lon="5.250103">
+    <ele>125.700000</ele>
+    <time>2015-06-17T12:36:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219638" lon="5.250087">
+    <ele>125.600000</ele>
+    <time>2015-06-17T12:36:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219600" lon="5.250045">
+    <ele>126.800000</ele>
+    <time>2015-06-17T12:36:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219545" lon="5.250038">
+    <ele>132.800000</ele>
+    <time>2015-06-17T12:36:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219497" lon="5.250030">
+    <ele>137.700000</ele>
+    <time>2015-06-17T12:36:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219455" lon="5.250013">
+    <ele>140.700000</ele>
+    <time>2015-06-17T12:36:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219422" lon="5.249977">
+    <ele>141.300000</ele>
+    <time>2015-06-17T12:36:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219382" lon="5.249943">
+    <ele>141.500000</ele>
+    <time>2015-06-17T12:36:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219343" lon="5.249888">
+    <ele>141.500000</ele>
+    <time>2015-06-17T12:36:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219295" lon="5.249842">
+    <ele>143.500000</ele>
+    <time>2015-06-17T12:36:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219245" lon="5.249773">
+    <ele>144.700000</ele>
+    <time>2015-06-17T12:36:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219197" lon="5.249693">
+    <ele>145.200000</ele>
+    <time>2015-06-17T12:36:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219145" lon="5.249613">
+    <ele>147.400000</ele>
+    <time>2015-06-17T12:36:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219098" lon="5.249542">
+    <ele>148.700000</ele>
+    <time>2015-06-17T12:36:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219050" lon="5.249472">
+    <ele>149.300000</ele>
+    <time>2015-06-17T12:36:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.219002" lon="5.249403">
+    <ele>150.100000</ele>
+    <time>2015-06-17T12:36:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218958" lon="5.249328">
+    <ele>149.900000</ele>
+    <time>2015-06-17T12:36:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218910" lon="5.249262">
+    <ele>149.600000</ele>
+    <time>2015-06-17T12:36:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218862" lon="5.249163">
+    <ele>150.700000</ele>
+    <time>2015-06-17T12:36:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218810" lon="5.249060">
+    <ele>152.100000</ele>
+    <time>2015-06-17T12:36:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218760" lon="5.248935">
+    <ele>155.000000</ele>
+    <time>2015-06-17T12:36:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218710" lon="5.248872">
+    <ele>154.300000</ele>
+    <time>2015-06-17T12:36:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218658" lon="5.248803">
+    <ele>154.600000</ele>
+    <time>2015-06-17T12:36:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218608" lon="5.248742">
+    <ele>154.100000</ele>
+    <time>2015-06-17T12:36:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218557" lon="5.248680">
+    <ele>153.600000</ele>
+    <time>2015-06-17T12:36:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218505" lon="5.248623">
+    <ele>153.100000</ele>
+    <time>2015-06-17T12:36:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218457" lon="5.248568">
+    <ele>152.500000</ele>
+    <time>2015-06-17T12:36:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218413" lon="5.248523">
+    <ele>152.100000</ele>
+    <time>2015-06-17T12:36:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218375" lon="5.248478">
+    <ele>151.500000</ele>
+    <time>2015-06-17T12:36:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218338" lon="5.248440">
+    <ele>151.000000</ele>
+    <time>2015-06-17T12:36:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218305" lon="5.248398">
+    <ele>150.400000</ele>
+    <time>2015-06-17T12:36:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218262" lon="5.248353">
+    <ele>149.900000</ele>
+    <time>2015-06-17T12:36:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218212" lon="5.248300">
+    <ele>149.600000</ele>
+    <time>2015-06-17T12:36:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218148" lon="5.248242">
+    <ele>149.400000</ele>
+    <time>2015-06-17T12:36:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218082" lon="5.248175">
+    <ele>148.800000</ele>
+    <time>2015-06-17T12:36:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.218012" lon="5.248105">
+    <ele>148.200000</ele>
+    <time>2015-06-17T12:36:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217930" lon="5.248037">
+    <ele>147.400000</ele>
+    <time>2015-06-17T12:36:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217832" lon="5.248002">
+    <ele>148.400000</ele>
+    <time>2015-06-17T12:36:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217712" lon="5.247957">
+    <ele>149.200000</ele>
+    <time>2015-06-17T12:36:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217607" lon="5.247893">
+    <ele>149.300000</ele>
+    <time>2015-06-17T12:36:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217503" lon="5.247822">
+    <ele>149.400000</ele>
+    <time>2015-06-17T12:36:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217402" lon="5.247735">
+    <ele>150.100000</ele>
+    <time>2015-06-17T12:36:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217305" lon="5.247652">
+    <ele>150.300000</ele>
+    <time>2015-06-17T12:36:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217210" lon="5.247580">
+    <ele>150.500000</ele>
+    <time>2015-06-17T12:36:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217122" lon="5.247495">
+    <ele>150.100000</ele>
+    <time>2015-06-17T12:36:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.217038" lon="5.247412">
+    <ele>149.700000</ele>
+    <time>2015-06-17T12:36:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.216958" lon="5.247322">
+    <ele>149.200000</ele>
+    <time>2015-06-17T12:36:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.216885" lon="5.247220">
+    <ele>149.000000</ele>
+    <time>2015-06-17T12:37:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.216818" lon="5.247118">
+    <ele>149.200000</ele>
+    <time>2015-06-17T12:37:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.4</vdop>
+    <pdop>4.1</pdop>
+   </trkpt>
+   <trkpt lat="46.216762" lon="5.247005">
+    <ele>149.400000</ele>
+    <time>2015-06-17T12:37:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216698" lon="5.246888">
+    <ele>149.500000</ele>
+    <time>2015-06-17T12:37:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216637" lon="5.246772">
+    <ele>149.700000</ele>
+    <time>2015-06-17T12:37:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216577" lon="5.246647">
+    <ele>149.600000</ele>
+    <time>2015-06-17T12:37:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216522" lon="5.246523">
+    <ele>149.600000</ele>
+    <time>2015-06-17T12:37:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216468" lon="5.246400">
+    <ele>149.400000</ele>
+    <time>2015-06-17T12:37:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216430" lon="5.246263">
+    <ele>149.200000</ele>
+    <time>2015-06-17T12:37:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216403" lon="5.246130">
+    <ele>148.800000</ele>
+    <time>2015-06-17T12:37:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216378" lon="5.245995">
+    <ele>148.300000</ele>
+    <time>2015-06-17T12:37:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216358" lon="5.245872">
+    <ele>147.900000</ele>
+    <time>2015-06-17T12:37:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216340" lon="5.245755">
+    <ele>147.500000</ele>
+    <time>2015-06-17T12:37:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216330" lon="5.245677">
+    <ele>147.200000</ele>
+    <time>2015-06-17T12:37:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216327" lon="5.245590">
+    <ele>146.800000</ele>
+    <time>2015-06-17T12:37:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216325" lon="5.245510">
+    <ele>146.400000</ele>
+    <time>2015-06-17T12:37:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216330" lon="5.245463">
+    <ele>146.000000</ele>
+    <time>2015-06-17T12:37:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216338" lon="5.245433">
+    <ele>145.700000</ele>
+    <time>2015-06-17T12:37:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216352" lon="5.245412">
+    <ele>145.300000</ele>
+    <time>2015-06-17T12:37:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216365" lon="5.245392">
+    <ele>144.800000</ele>
+    <time>2015-06-17T12:37:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216375" lon="5.245382">
+    <ele>144.500000</ele>
+    <time>2015-06-17T12:37:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216390" lon="5.245378">
+    <ele>144.400000</ele>
+    <time>2015-06-17T12:37:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216407" lon="5.245365">
+    <ele>144.300000</ele>
+    <time>2015-06-17T12:37:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216418" lon="5.245357">
+    <ele>144.100000</ele>
+    <time>2015-06-17T12:37:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216415" lon="5.245355">
+    <ele>143.900000</ele>
+    <time>2015-06-17T12:37:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216418" lon="5.245343">
+    <ele>143.800000</ele>
+    <time>2015-06-17T12:37:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216415" lon="5.245335">
+    <ele>143.400000</ele>
+    <time>2015-06-17T12:37:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216422" lon="5.245325">
+    <ele>143.200000</ele>
+    <time>2015-06-17T12:37:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216433" lon="5.245308">
+    <ele>143.300000</ele>
+    <time>2015-06-17T12:37:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216455" lon="5.245270">
+    <ele>143.500000</ele>
+    <time>2015-06-17T12:37:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216482" lon="5.245200">
+    <ele>144.300000</ele>
+    <time>2015-06-17T12:37:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216490" lon="5.245137">
+    <ele>145.100000</ele>
+    <time>2015-06-17T12:37:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216508" lon="5.245075">
+    <ele>145.400000</ele>
+    <time>2015-06-17T12:37:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216560" lon="5.244987">
+    <ele>145.800000</ele>
+    <time>2015-06-17T12:37:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216607" lon="5.244873">
+    <ele>146.200000</ele>
+    <time>2015-06-17T12:37:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216593" lon="5.244765">
+    <ele>147.100000</ele>
+    <time>2015-06-17T12:37:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216580" lon="5.244642">
+    <ele>147.600000</ele>
+    <time>2015-06-17T12:37:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216507" lon="5.244557">
+    <ele>148.200000</ele>
+    <time>2015-06-17T12:37:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216418" lon="5.244480">
+    <ele>149.000000</ele>
+    <time>2015-06-17T12:37:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216308" lon="5.244422">
+    <ele>149.900000</ele>
+    <time>2015-06-17T12:37:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216180" lon="5.244402">
+    <ele>150.700000</ele>
+    <time>2015-06-17T12:37:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216047" lon="5.244408">
+    <ele>151.300000</ele>
+    <time>2015-06-17T12:37:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215933" lon="5.244413">
+    <ele>152.200000</ele>
+    <time>2015-06-17T12:37:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215822" lon="5.244407">
+    <ele>152.700000</ele>
+    <time>2015-06-17T12:37:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215737" lon="5.244370">
+    <ele>153.800000</ele>
+    <time>2015-06-17T12:37:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215652" lon="5.244315">
+    <ele>155.000000</ele>
+    <time>2015-06-17T12:37:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215565" lon="5.244220">
+    <ele>156.000000</ele>
+    <time>2015-06-17T12:37:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215473" lon="5.244137">
+    <ele>157.000000</ele>
+    <time>2015-06-17T12:37:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215383" lon="5.244043">
+    <ele>157.900000</ele>
+    <time>2015-06-17T12:37:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215287" lon="5.243958">
+    <ele>158.600000</ele>
+    <time>2015-06-17T12:37:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215210" lon="5.243875">
+    <ele>159.200000</ele>
+    <time>2015-06-17T12:37:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215152" lon="5.243802">
+    <ele>160.000000</ele>
+    <time>2015-06-17T12:37:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215113" lon="5.243732">
+    <ele>160.800000</ele>
+    <time>2015-06-17T12:37:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215098" lon="5.243667">
+    <ele>161.800000</ele>
+    <time>2015-06-17T12:37:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215090" lon="5.243585">
+    <ele>163.400000</ele>
+    <time>2015-06-17T12:37:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215093" lon="5.243498">
+    <ele>164.400000</ele>
+    <time>2015-06-17T12:37:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215127" lon="5.243382">
+    <ele>166.100000</ele>
+    <time>2015-06-17T12:37:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215168" lon="5.243265">
+    <ele>168.100000</ele>
+    <time>2015-06-17T12:37:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215215" lon="5.243160">
+    <ele>169.300000</ele>
+    <time>2015-06-17T12:37:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215267" lon="5.243062">
+    <ele>170.400000</ele>
+    <time>2015-06-17T12:37:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215308" lon="5.242978">
+    <ele>171.900000</ele>
+    <time>2015-06-17T12:38:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215350" lon="5.242888">
+    <ele>173.600000</ele>
+    <time>2015-06-17T12:38:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215385" lon="5.242808">
+    <ele>174.600000</ele>
+    <time>2015-06-17T12:38:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215377" lon="5.242742">
+    <ele>175.700000</ele>
+    <time>2015-06-17T12:38:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215348" lon="5.242682">
+    <ele>176.600000</ele>
+    <time>2015-06-17T12:38:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215317" lon="5.242627">
+    <ele>177.300000</ele>
+    <time>2015-06-17T12:38:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215272" lon="5.242588">
+    <ele>178.000000</ele>
+    <time>2015-06-17T12:38:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215228" lon="5.242552">
+    <ele>178.700000</ele>
+    <time>2015-06-17T12:38:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215190" lon="5.242522">
+    <ele>179.600000</ele>
+    <time>2015-06-17T12:38:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215153" lon="5.242487">
+    <ele>180.400000</ele>
+    <time>2015-06-17T12:38:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215108" lon="5.242450">
+    <ele>181.200000</ele>
+    <time>2015-06-17T12:38:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215065" lon="5.242410">
+    <ele>182.000000</ele>
+    <time>2015-06-17T12:38:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215027" lon="5.242372">
+    <ele>182.800000</ele>
+    <time>2015-06-17T12:38:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214983" lon="5.242327">
+    <ele>183.400000</ele>
+    <time>2015-06-17T12:38:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214950" lon="5.242287">
+    <ele>184.100000</ele>
+    <time>2015-06-17T12:38:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214918" lon="5.242253">
+    <ele>184.800000</ele>
+    <time>2015-06-17T12:38:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214893" lon="5.242225">
+    <ele>185.500000</ele>
+    <time>2015-06-17T12:38:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214870" lon="5.242205">
+    <ele>186.200000</ele>
+    <time>2015-06-17T12:38:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214843" lon="5.242180">
+    <ele>186.800000</ele>
+    <time>2015-06-17T12:38:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214815" lon="5.242180">
+    <ele>187.600000</ele>
+    <time>2015-06-17T12:38:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214797" lon="5.242192">
+    <ele>188.400000</ele>
+    <time>2015-06-17T12:38:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214792" lon="5.242157">
+    <ele>190.500000</ele>
+    <time>2015-06-17T12:38:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214790" lon="5.242165">
+    <ele>191.300000</ele>
+    <time>2015-06-17T12:38:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214787" lon="5.242167">
+    <ele>191.900000</ele>
+    <time>2015-06-17T12:38:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214778" lon="5.242158">
+    <ele>192.800000</ele>
+    <time>2015-06-17T12:38:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214775" lon="5.242153">
+    <ele>193.500000</ele>
+    <time>2015-06-17T12:38:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214772" lon="5.242155">
+    <ele>194.000000</ele>
+    <time>2015-06-17T12:38:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214770" lon="5.242153">
+    <ele>194.400000</ele>
+    <time>2015-06-17T12:38:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214770" lon="5.242153">
+    <ele>194.700000</ele>
+    <time>2015-06-17T12:38:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214770" lon="5.242153">
+    <ele>194.700000</ele>
+    <time>2015-06-17T12:38:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.3</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214770" lon="5.242153">
+    <ele>194.700000</ele>
+    <time>2015-06-17T12:38:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214770" lon="5.242153">
+    <ele>194.700000</ele>
+    <time>2015-06-17T12:38:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214767" lon="5.242153">
+    <ele>194.800000</ele>
+    <time>2015-06-17T12:38:32.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214767" lon="5.242153">
+    <ele>194.800000</ele>
+    <time>2015-06-17T12:38:33.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214767" lon="5.242153">
+    <ele>194.800000</ele>
+    <time>2015-06-17T12:38:34.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214767" lon="5.242153">
+    <ele>194.800000</ele>
+    <time>2015-06-17T12:38:35.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242158">
+    <ele>194.900000</ele>
+    <time>2015-06-17T12:38:36.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242158">
+    <ele>194.900000</ele>
+    <time>2015-06-17T12:38:37.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242158">
+    <ele>194.900000</ele>
+    <time>2015-06-17T12:38:38.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242158">
+    <ele>194.900000</ele>
+    <time>2015-06-17T12:38:39.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242158">
+    <ele>194.900000</ele>
+    <time>2015-06-17T12:38:40.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214758" lon="5.242162">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:41.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214758" lon="5.242162">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:42.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214758" lon="5.242162">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:43.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214758" lon="5.242162">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:44.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214758" lon="5.242162">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:45.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242152">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:46.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242152">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:47.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242152">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:48.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214763" lon="5.242152">
+    <ele>195.000000</ele>
+    <time>2015-06-17T12:38:49.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214767" lon="5.242145">
+    <ele>195.100000</ele>
+    <time>2015-06-17T12:38:50.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214775" lon="5.242137">
+    <ele>196.600000</ele>
+    <time>2015-06-17T12:38:51.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214783" lon="5.242133">
+    <ele>199.400000</ele>
+    <time>2015-06-17T12:38:52.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214820" lon="5.242122">
+    <ele>197.100000</ele>
+    <time>2015-06-17T12:38:53.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214858" lon="5.242112">
+    <ele>198.800000</ele>
+    <time>2015-06-17T12:38:54.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214868" lon="5.242123">
+    <ele>201.600000</ele>
+    <time>2015-06-17T12:38:55.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214922" lon="5.242123">
+    <ele>199.000000</ele>
+    <time>2015-06-17T12:38:56.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.214993" lon="5.242127">
+    <ele>197.900000</ele>
+    <time>2015-06-17T12:38:57.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215062" lon="5.242143">
+    <ele>199.600000</ele>
+    <time>2015-06-17T12:38:58.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215150" lon="5.242157">
+    <ele>201.400000</ele>
+    <time>2015-06-17T12:38:59.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215248" lon="5.242177">
+    <ele>203.400000</ele>
+    <time>2015-06-17T12:39:00.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.3</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215363" lon="5.242197">
+    <ele>205.500000</ele>
+    <time>2015-06-17T12:39:01.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215467" lon="5.242218">
+    <ele>207.500000</ele>
+    <time>2015-06-17T12:39:02.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215558" lon="5.242245">
+    <ele>209.600000</ele>
+    <time>2015-06-17T12:39:03.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215632" lon="5.242272">
+    <ele>211.900000</ele>
+    <time>2015-06-17T12:39:04.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215697" lon="5.242290">
+    <ele>214.300000</ele>
+    <time>2015-06-17T12:39:05.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215778" lon="5.242308">
+    <ele>216.300000</ele>
+    <time>2015-06-17T12:39:06.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215848" lon="5.242327">
+    <ele>218.400000</ele>
+    <time>2015-06-17T12:39:07.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215395" lon="5.242353">
+    <ele>231.000000</ele>
+    <time>2015-06-17T12:39:08.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215555" lon="5.242328">
+    <ele>224.600000</ele>
+    <time>2015-06-17T12:39:09.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215600" lon="5.242337">
+    <ele>226.900000</ele>
+    <time>2015-06-17T12:39:10.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215637" lon="5.242340">
+    <ele>229.300000</ele>
+    <time>2015-06-17T12:39:11.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215663" lon="5.242347">
+    <ele>231.800000</ele>
+    <time>2015-06-17T12:39:12.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215683" lon="5.242355">
+    <ele>234.300000</ele>
+    <time>2015-06-17T12:39:13.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215697" lon="5.242365">
+    <ele>236.900000</ele>
+    <time>2015-06-17T12:39:14.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215705" lon="5.242372">
+    <ele>239.700000</ele>
+    <time>2015-06-17T12:39:15.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215767" lon="5.242378">
+    <ele>242.100000</ele>
+    <time>2015-06-17T12:39:16.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215808" lon="5.242378">
+    <ele>244.400000</ele>
+    <time>2015-06-17T12:39:17.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215860" lon="5.242382">
+    <ele>246.900000</ele>
+    <time>2015-06-17T12:39:18.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215912" lon="5.242385">
+    <ele>249.300000</ele>
+    <time>2015-06-17T12:39:19.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.215965" lon="5.242393">
+    <ele>251.800000</ele>
+    <time>2015-06-17T12:39:20.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216003" lon="5.242397">
+    <ele>254.900000</ele>
+    <time>2015-06-17T12:39:21.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>5</sat>
+    <hdop>2.4</hdop>
+    <vdop>3.2</vdop>
+    <pdop>4.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216023" lon="5.242412">
+    <ele>258.000000</ele>
+    <time>2015-06-17T12:39:22.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216075" lon="5.242425">
+    <ele>260.700000</ele>
+    <time>2015-06-17T12:39:23.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216125" lon="5.242442">
+    <ele>263.500000</ele>
+    <time>2015-06-17T12:39:24.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216187" lon="5.242452">
+    <ele>264.900000</ele>
+    <time>2015-06-17T12:39:25.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216248" lon="5.242462">
+    <ele>266.100000</ele>
+    <time>2015-06-17T12:39:26.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216323" lon="5.242475">
+    <ele>267.100000</ele>
+    <time>2015-06-17T12:39:27.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216400" lon="5.242493">
+    <ele>268.000000</ele>
+    <time>2015-06-17T12:39:28.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216478" lon="5.242510">
+    <ele>268.700000</ele>
+    <time>2015-06-17T12:39:29.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216560" lon="5.242537">
+    <ele>269.200000</ele>
+    <time>2015-06-17T12:39:30.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+   <trkpt lat="46.216647" lon="5.242555">
+    <ele>269.600000</ele>
+    <time>2015-06-17T12:39:31.000Z</time>
+    <src>GPSD tag="GLL"</src>
+    <fix>3d</fix>
+    <sat>4</sat>
+    <hdop>2.6</hdop>
+    <vdop>4.3</vdop>
+    <pdop>5.0</pdop>
+   </trkpt>
+</trkseg></trk></gpx>

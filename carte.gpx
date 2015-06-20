@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><gpx version="1.1" creator="GPSD 3.6 - http://catb.org/gpsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"><metadata><time>2015-02-16T15:20:47.000Z</time></metadata><trk><src>GPSD 3.6</src><trkseg>
+<trkpt lat="46.2150764465332" lon="5.241612911224365">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:00.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.214915534180676" lon="5.241521887567802">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:01.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21490348092165" lon="5.241711199995776">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:02.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21475225388636" lon="5.241802029585004">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:03.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.214636233536474" lon="5.241784253971083">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:04.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.214550816023625" lon="5.241681358807417">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:05.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.214384300847804" lon="5.241671651973456">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:06.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21420660062087" lon="5.241809565778717">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:07.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.214090754768854" lon="5.241805769437906">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:08.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.2139579788299" lon="5.241685811927948">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:09.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21391778538353" lon="5.241596198116168">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:10.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21380532183141" lon="5.241518505554511">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:11.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21374223401617" lon="5.241394187097793">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:12.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21360883322064" lon="5.241268345298105">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:13.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.213557867250465" lon="5.241143963990519">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:14.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21374821030475" lon="5.2411628887579615">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:15.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21374786613206" lon="5.241023537783046">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:16.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21369827453394" lon="5.240914230890845">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:17.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21361213940678" lon="5.240849536790304">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:18.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21350505693039" lon="5.240657947761577">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:19.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21331441557333" lon="5.240557205977167">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:20.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.213470082826156" lon="5.2403918374053635">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:21.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21328732666299" lon="5.240377064189007">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:22.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.213131209703405" lon="5.240278660788765">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:23.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.213064306387516" lon="5.240265393044327">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:24.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.212907926016406" lon="5.240143183116763">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:25.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.212736679229955" lon="5.24006182643898">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:26.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21258305125413" lon="5.240019700007969">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:27.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21238834951211" lon="5.240116206038192">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:28.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.212244736695965" lon="5.240310079060183">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:29.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21206245863839" lon="5.240236617597776">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:30.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21201057914844" lon="5.24036525701397">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:31.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt>
+<trkpt lat="46.21186229155961" lon="5.240217770303327">
+<ele>-40.700000</ele>
+<time>2015-06-16T12:10:32.000Z</time><src>GPSD tag="GLL"
+</src><fix>3d</fix>
+<sat>3</sat>
+</trkpt></trkseg></trk></gpx>

@@ -1,0 +1,5 @@
+#!/bin/bash
+clear
+echo "Lancement du SCRIPT"
+sudo chmod 777 /home/pi/Desktop/led2.py
+sudo python3 /home/pi/Desktop/led2.py
